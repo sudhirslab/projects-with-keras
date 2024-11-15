@@ -5,5 +5,6 @@ Learning Keras through a project is an excellent way to get hands-on experience.
 ## Project 1
 
 ### Predict Handwritten Digits Using Keras Library 
+Link to [KAGGLE SHEET](https://www.kaggle.com/code/sudhirranjan/predict-handwritten-digits-using-keras-library).
 
 ![NN-Keras-MNIST-Prediction-by-Smartechie](https://github.com/user-attachments/assets/48287883-1df6-4130-b6eb-9daa80e164bf)
